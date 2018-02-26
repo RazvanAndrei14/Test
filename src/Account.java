@@ -69,4 +69,11 @@ public class Account {
 			this.balance = balance + amount;
 		}
 	}
-///////
+
+	
+	
+	/*
+	
+	this is changes made, that is, in essence, the reason for a new branch of this development. It should be obvious to see in the KRAKEN!
+	
+	*/
