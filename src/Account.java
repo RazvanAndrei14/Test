@@ -85,3 +85,6 @@ public class Account {
 	
 	/* A CHANGE! */
 >>>>>>>
+
+
+// NICETY COMMENT
