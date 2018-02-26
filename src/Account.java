@@ -15,6 +15,7 @@ public class Account {
 }
 
 /////asdadasdsadjaskdhabjafajsblsfjbaljb
+//change nr 2
 	class AccountClass {
 		private int id;
 		private double balance;
@@ -69,6 +70,7 @@ public class Account {
 			this.balance = balance + amount;
 		}
 	}
+<<<<<<<
 
 	
 	
@@ -77,3 +79,9 @@ public class Account {
 	this is changes made, that is, in essence, the reason for a new branch of this development. It should be obvious to see in the KRAKEN!
 	
 	*/
+=======
+///////
+	
+	
+	/* A CHANGE! */
+>>>>>>>
